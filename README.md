@@ -8,4 +8,5 @@ Features:
 * Auto discover Media Server
 * Show playing now
 * Play/pause/resume
+* Show album arts 
 
